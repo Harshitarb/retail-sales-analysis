@@ -84,17 +84,13 @@ HAVING totsales > (
 
 ## Repository Structure
 ```
-retail-sales-analysis/
-├── README.md
-├── data/
-│   ├── retails_sales_cleaned.xlsx
-│   └── retails_sales_cleaned.csv
-├── sql/
-│   └── retail_sales_queries.sql
-├── powerbi/
-│   └── retail_sales_dashboard.pbix
-└── screenshots/
-    └── dashboard_preview.png
+     retail-sales-analysis/
+     ├── README.md
+     ├── retails_sales_cleaned.xlsx
+     ├── retails_sales_cleaned.csv
+     ├── retail_sales_queries.sql
+     ├── retail_sales_dashboard.pbix
+     └── dashboard_preview.png
 ```
 
 ## Author
