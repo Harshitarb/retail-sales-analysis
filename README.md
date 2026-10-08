@@ -95,4 +95,4 @@ HAVING totsales > (
 
 ## Author
 Harshita — B.E. Electronics and Communication
-[LinkedIn](https://linkedin.com/in/harshita-r-b-383229262)
+[LinkedIn](https://www.linkedin.com/in/harshita-rb)
